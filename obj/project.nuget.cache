@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nlsc7C0Da99sOfyjk+ZaK2T1VRuJscFvn9rz0zdwbIeBV6fak0I1XTsps0/6+BwBUfO6hWPzRUO6WOIN0KToww==",
+  "dgSpecHash": "9tl8vRGC7t/Fd+28uvM/4VRGHr/ZF/fgaG9iOFNloC8LaGSYul5YI6yhC7DSuXYArnRb/uyKpO1t8oFh+Shp5w==",
   "success": true,
-  "projectFilePath": "B:\\Cronometro\\Stopwatch\\Stopwatch.csproj",
+  "projectFilePath": "D:\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
